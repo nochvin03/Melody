@@ -2,6 +2,6 @@
 ## проект выполнил: Андрей
 
 ###Технологии:
- - html
- - css
- - javascript
+- html
+- css
+- javascript
